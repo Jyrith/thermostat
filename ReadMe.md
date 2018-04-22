@@ -16,7 +16,7 @@ Other stuff you will need
 
 [PDF version of the Wiring diagram](doc/Heater.pdf)
 
-![alt text](doc/Heater150.png "Wiring diagram")
+![Wiring diagram](doc/Heater150.png "Wiring diagram")
 
 ### Description
 A short description how the device works i.e.functional description of the device
