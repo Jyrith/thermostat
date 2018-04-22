@@ -13,6 +13,7 @@
 Other stuff you will need
 - FTDI Basic Breakout & avrdude software to program Arduino Pro Mini Board.
 
+![alt text](doc/Heater150.png "Wiring diagram")
 
 ### Description
 A short description how the device works i.e.functional description of the device
