@@ -1,0 +1,17 @@
+# ignore all .aps files
+*.aps
+*.aws
+# ignore all .d files (default/dep )
+*.d
+# ignore make and build files 
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sym
+*.elf
+*.hex
+# ignore doc folder, doxygen generated
+doc/html/
+doc/latex/
